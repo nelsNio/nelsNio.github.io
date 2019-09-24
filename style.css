@@ -512,7 +512,7 @@ body.scrolled .header--navbar {
 
 /* 3.1. BANNER CONTENT */
 .banner--content {
-    width:40%;
+    width: 50%;
     color: #303030;
 }
 
@@ -1776,6 +1776,7 @@ body.scrolled #backToTop {
     /* BANNER */
     #banner {
         height: auto;
+        
     }
     
     #banner .banner--content {
@@ -1787,7 +1788,7 @@ body.scrolled #backToTop {
     }
 
     .banner--content {
-        width: 50%;
+        width: 90%;
         word-wrap: break-word;
     }
     
@@ -1867,12 +1868,12 @@ body.scrolled #backToTop {
     }
     p#msg-motiv {
         background: rgba(255, 255, 255, 0.705);
-        width: 90%;
+        width: 100%;
       
     }
     h2#keys-phrase {
         background: rgba(255, 255, 255, 0.705);
-        width: 90%;
+        width: 100%;
       
     }
     
