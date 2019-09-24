@@ -107,6 +107,7 @@ body {
     height: 100%;
 }
 
+
 body {
     background: #f9f9f9;
     font-family: 'Raleway', sans-serif;
@@ -114,6 +115,14 @@ body {
 
 p:last-child {
     margin-bottom: 0;
+}
+p#msg-motiv {
+    background: rgba(255, 255, 255, 0.705);
+  
+}
+h2#keys-phrase {
+    background: rgba(255, 255, 255, 0.705);
+  
 }
 
 .wrapper {
