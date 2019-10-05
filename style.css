@@ -1785,11 +1785,13 @@ body.scrolled #backToTop {
     
     #header + #banner .banner--content {
         padding-top: 145px;
+        padding-left: 0;
     }
 
     .banner--content {
         width: 90%;
         word-wrap: break-word;
+        padding-left: 0;
     }
     
     /* ABOUT AREA */
@@ -1817,15 +1819,18 @@ body.scrolled #backToTop {
     .modal-dialog {
         margin-left: 30px;
         margin-right: 30px;
+        padding-left: 0%;
     }
     p#msg-motiv {
         background: rgba(255, 255, 255, 0.705);
         width: 90%;
+        padding-left: 0;
       
     }
     h2#keys-phrase {
         background: rgba(255, 255, 255, 0.705);
         width: 90%;
+        padding-left: 0;
       
     }
     
@@ -1869,11 +1874,13 @@ body.scrolled #backToTop {
     p#msg-motiv {
         background: rgba(255, 255, 255, 0.705);
         width: 100%;
+        padding-left: 0%
       
     }
     h2#keys-phrase {
         background: rgba(255, 255, 255, 0.705);
         width: 100%;
+        padding-left: 0%;
       
     }
     
