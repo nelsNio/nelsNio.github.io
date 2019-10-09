@@ -1822,15 +1822,15 @@ body.scrolled #backToTop {
         padding-left: 0%;
     }
     p#msg-motiv {
-        background: rgba(255, 255, 255, 0.705);
+        /* background: rgba(255, 255, 255, 0.705);
         width: 90%;
         padding-left: 0;
-      
+       */
     }
     h2#keys-phrase {
-        background: rgba(255, 255, 255, 0.705);
+        /* background: rgba(255, 255, 255, 0.705);
         width: 90%;
-        padding-left: 0;
+        padding-left: 0; */
       
     }
     
